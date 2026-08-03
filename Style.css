@@ -1,1 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background:linear-gradient(to right,#14c9ff,#19e0d8);
+    min-height:100vh;
+}
+
+nav{
+    width:100%;
+    height:70px;
+    background:#1f1f1f;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:0 60px;
+}
+
+.logo{
+    display:flex;
+    align-items:center;
+    color:white;
+    gap:10px;
+}
 
