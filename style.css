@@ -1,0 +1,17 @@
+nav{
+    display:flex;
+    justify-content:space-between;
+    padding: 60px;
+    align-items: center;
+    background-color: darkcyan;
+}
+.menu{
+    display:flex;
+    list-style: none;
+    gap: 20px;
+}
+.logo{
+    font-size: 20px;
+    font: weight bold 100px;
+    color:black;
+}
