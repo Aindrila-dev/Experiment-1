@@ -26,4 +26,7 @@ nav{
     color:white;
     gap:10px;
 }
-
+.menu{
+    display:flex;
+    list-style:none;
+    gap:10px;
