@@ -30,3 +30,36 @@ nav{
     display:flex;
     list-style:none;
     gap:10px;
+}
+body{
+    background:linear gradient;
+    min-height: 100vh;
+}
+.manu li a{
+    text-decoration:null;
+    color:white;
+    padding:15px;
+    border-radious:5px;
+    transition:yellow 0.3s;
+}
+.manu li a:hover;
+.login-box{
+    width:380px;
+    background:white;
+    margin:60px;
+    padding:35px;
+    border-radious:15px;
+    text-align:center;
+    box-shadow:0 10px 30px lightblue;
+}
+.profile-icon{
+    font-size:55px;
+    margin-bottom:10px;
+}
+.login-box h2{
+    margin-bottom:10px;
+}
+.login box p{
+    color:black;
+    margin-border:20px;
+}
